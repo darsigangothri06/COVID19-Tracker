@@ -1,0 +1,30 @@
+com/example/trackercovid_19/Adapter/DistrictListAdapter.java
+ com.example.trackercovid_19.Adapter.DistrictListAdapter
+ com.example.trackercovid_19.Adapter.DistrictListAdapter$1
+com/example/trackercovid_19/Adapter/StateAdapter.java
+ com.example.trackercovid_19.Adapter.StateAdapter
+ com.example.trackercovid_19.Adapter.StateAdapter$1
+com/example/trackercovid_19/StateWiseData.java
+ com.example.trackercovid_19.StateWiseData
+ com.example.trackercovid_19.StateWiseData$1
+ com.example.trackercovid_19.StateWiseData$2
+com/example/trackercovid_19/StartActivity.java
+ com.example.trackercovid_19.StartActivity
+ com.example.trackercovid_19.StartActivity$1
+ com.example.trackercovid_19.StartActivity$2
+ com.example.trackercovid_19.StartActivity$3
+ com.example.trackercovid_19.StartActivity$4
+ com.example.trackercovid_19.StartActivity$5
+com/example/trackercovid_19/BuildConfig.java
+ com.example.trackercovid_19.BuildConfig
+com/example/trackercovid_19/MainActivity.java
+ com.example.trackercovid_19.MainActivity
+ com.example.trackercovid_19.MainActivity$1
+com/example/trackercovid_19/DistrictWiseData.java
+ com.example.trackercovid_19.DistrictWiseData
+ com.example.trackercovid_19.DistrictWiseData$1
+ com.example.trackercovid_19.DistrictWiseData$2
+com/example/trackercovid_19/DistrictDetails.java
+ com.example.trackercovid_19.DistrictDetails
+com/example/trackercovid_19/Model/District.java
+ com.example.trackercovid_19.Model.District

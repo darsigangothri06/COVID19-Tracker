@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.trackercovid_19"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:5:5-67
+11-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:7:5-40:19
+14        android:allowBackup="true"
+14-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.5.0] C:\Users\Lenovo\.gradle\caches\transforms-3\b1fe9740f6c86f0b7649a763c3bf2b85\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:label="@string/app_name"
+17-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:10:9-54
+19        android:supportsRtl="true"
+19-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.TrackerCovid19" >
+21-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:12:9-52
+22        <activity
+22-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:13:9-17:15
+23            android:name="com.example.trackercovid_19.DistrictDetails"
+23-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:14:13-44
+24            android:exported="true"
+24-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:15:13-36
+25            android:label="District Details" />
+25-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:16:13-45
+26        <activity
+26-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:18:9-22:15
+27            android:name="com.example.trackercovid_19.DistrictWiseData"
+27-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:19:13-45
+28            android:exported="true"
+28-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:20:13-36
+29            android:label="Districts" />
+29-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:21:13-38
+30        <activity
+30-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:23:9-27:15
+31            android:name="com.example.trackercovid_19.StateWiseData"
+31-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:24:13-42
+32            android:exported="true"
+32-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:25:13-36
+33            android:label="All States" />
+33-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:26:13-39
+34        <activity
+34-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:28:9-36:20
+35            android:name="com.example.trackercovid_19.StartActivity"
+35-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:29:13-42
+36            android:exported="true" >
+36-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:30:13-36
+37            <intent-filter>
+37-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:31:13-35:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:32:17-69
+38-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:32:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:34:17-77
+40-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:34:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:37:9-39:39
+44            android:name="com.example.trackercovid_19.MainActivity"
+44-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:38:13-41
+45            android:exported="true" />
+45-->F:\new\COVID19-Tracker\app\src\main\AndroidManifest.xml:39:13-36
+46    </application>
+47
+48</manifest>

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uparrow.png.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable-v24\\uparrow.png"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_startbg.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\startbg.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_district_details.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\layout\\activity_district_details.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_start.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_category_background5.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\category_background5.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_clickhere.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\clickhere.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_covidtrackerlogo.png.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable-v24\\covidtrackerlogo.png"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\layout_district_model.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\layout\\district_model.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_state_wise_data.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\layout\\activity_state_wise_data.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_district_wise_data_list.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\layout\\activity_district_wise_data_list.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_1.png.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\img_1.png"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_startimg.jpg.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\startimg.jpg"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable_letsgrowlogo.png.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\drawable\\letsgrowlogo.png"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\new\\COVID19-Tracker\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\new\\COVID19-Tracker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]

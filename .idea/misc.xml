@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/drawable/activeBgColor.xml" value="0.2703125" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/drawable/category_background1.xml" value="0.2703125" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/drawable/category_background4.xml" value="0.2703125" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/drawable/category_background5.xml" value="0.2703125" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/drawable/clickhere.xml" value="0.2703125" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/drawable/recoveredbgcolor.xml" value="0.14635416666666667" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_district_details.xml" value="0.2" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_district_wie_data_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_district_wise_data_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_start.xml" value="0.264" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_state_wise_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/Covid 19 Tracker/LGMVIP-Android-covid-19/app/src/main/res/layout/district_model.xml" value="0.264" />
+        <entry key="..\:/LGMVIP/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_district_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/LGMVIP/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/LGMVIP/LGMVIP-Android-covid-19/app/src/main/res/layout/activity_start.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
